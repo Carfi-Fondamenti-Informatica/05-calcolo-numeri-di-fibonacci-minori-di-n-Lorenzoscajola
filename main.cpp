@@ -7,7 +7,6 @@ int main() {
 	int b=1;
 	int c=0;
 	cin>> n; 
-	
 	cout<<a<<endl; 
 	cout<<b<<endl; 
 	for(int i=0; i<=n; i++){
@@ -15,5 +14,5 @@ int main() {
 	   a=b;
 	   b=c;
 	   cout<<c<<endl;}
-   return 0;
-}
+   return 0;}
+
